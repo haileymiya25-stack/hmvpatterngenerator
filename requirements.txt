@@ -1,0 +1,8 @@
+streamlit
+cv2
+numpy 
+os
+tempfile
+json
+zipfile
+Path
